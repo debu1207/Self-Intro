@@ -1,0 +1,115 @@
+.info{
+    background: white;
+    font-family: Times New Roman;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 3px;
+    line-height: 30px;
+    color: black;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 2px;
+    border-color: black;
+    padding: 20px;
+}
+
+.nav{
+    font-family: Times New Roman;
+    text-align: right;
+}
+
+.nav button{
+    color: green;
+    background-color: lightgray;
+
+}
+
+
+.form{
+    font-family: Times New Roman;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    widht: 70px;
+    height: 240px;
+    margin-left: 180px;
+    margin-right: 180px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 2px;
+    border-color: black;
+    padding: 10px;
+
+}
+.skill {
+    margin-top: 30px;
+    color: black;
+    font-family: Times New Roman;
+}
+
+.skill h4{
+    text-shadow: 2px 2px 3px white;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+.skill ol{
+    background: white;
+    list-style-type: lower-roman;
+    line-height: 30px;
+    letter-spacing: 3px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 2px;
+    border-color: black;
+    padding-left: 90px;
+    padding: 40;
+    
+}
+.skill h5{
+    text-align: center;
+    font-size: 18px;
+}
+.skill h5 a{
+    color: lightblue;
+}
+
+.skill h5 a:hover{
+    border: 1px solid;
+    
+    color: white;
+}
+h1{
+    text-decoration-color: black;
+    text-decoration-style: solid;
+    test-decoration-line: underline;
+    text-shadow: 2px 2px 3px black;
+    text-align: center;
+    color: whitesmoke;
+    font-family: Times New Roman;
+}
+
+h3 {
+    text-shadow: 2px 2px 3px white;
+    text-align: center;
+    font-family: Times New Roman;
+    color: black;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1520916784675-1b97f1fc1c05?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=hamish-weir-aYEUXnVG8tg-unsplash.jpg&w=1920');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-color: black;
+}
